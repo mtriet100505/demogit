@@ -3,3 +3,4 @@ Máy A đã hoàn thành login
 Máy A dang fix bug login
 
 May A đã tách nhánh
+Chỉnh sửa  làm tính năng giỏ hang máy A
