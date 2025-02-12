@@ -1,3 +1,5 @@
 Chỉnh sửa nội dung lần 1
 Máy A đã hoàn thành login
 Máy A dang fix bug login
+
+May A đã tách nhánh
