@@ -1,2 +1,3 @@
 đã hoàn thành tính năng dang ký
 Máy B da hoàn thành tính năng dăng ký
+Máy B đã tách nhánh
